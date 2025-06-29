@@ -1,45 +1,47 @@
-# 🧘‍♀️ PoseFit – Real-Time Yoga Pose Trainer
+# 🧘‍♀️ PoseFit – Real-Time Yoga Posture Correction App
 
-PoseFit is a real-time yoga posture evaluation app that uses your webcam to detect poses and give live feedback on accuracy. Perfect for home workouts, learning yoga, or practicing safely.
-
----
-
-## ✨ Features
-
-- 📷 **Webcam-based Pose Detection**
-- ✅ **Visual Feedback** (green = correct, red = incorrect)
-- 📖 **Step-by-Step Instructions** per pose
-- 🎬 **Watch Videos** and Read More
-- ⚛️ **Built with React + TensorFlow.js**
-- 🧠 **Lightweight & Fast**, no backend required
+**PoseFit** is a smart yoga trainer that helps users practice yoga with real-time posture feedback directly via their webcam. Built using **React.js** and **Mediapipe**, it visually guides users through popular yoga poses, improving form and body alignment from the comfort of home.
 
 ---
 
-## 🧘 Supported Poses
+## 🌟 Key Features
 
-- Tree Pose 🌳
-- Chair Pose 🪑
-- Cobra Pose 🐍
-- Warrior Pose 🛡️
-- Downward Dog 🐶
-- Shoulderstand 🤸‍♂️
-- Triangle Pose 🔺
+- 📷 Real-time **Pose Detection** via webcam
+- 🟢🔴 **Live Feedback** to show correct vs incorrect posture
+- 🧘 Built-in **pose illustrations and guidance**
+- 🎥 Pose-specific **videos & instructions**
+- ⚛️ Lightweight **React frontend** — no backend required
 
 ---
 
-## 🚀 Getting Started
+## 💻 Technologies Used
 
-Clone the repo and run it locally:
+- **React.js** for dynamic UI
+- **Tailwind CSS** for modern styling
+- **Mediapipe** for pose estimation
+- **JavaScript** for core logic
+- **Figma & Canva** for UI/UX design planning
+- **Git & GitHub** for version control
+
+---
+
+## 🧍‍♀️ Poses Included
+
+- 🌳 Tree Pose  
+- 🪑 Chair Pose  
+- 🐍 Cobra Pose  
+- 🛡️ Warrior Pose  
+- 🐶 Downward Dog  
+- 🤸‍♂️ Shoulderstand  
+- 🔺 Triangle Pose  
+
+---
+
+## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/VashuJain2024/PoseFit_Yoga.git
-cd Posefit (Navigate to the project directory)
+git clone https://github.com/GurkiratKaur3112/PoseFit_Yoga.git
+cd PoseFit_Yoga
 npm install
-npm start
-```
+npm run dev
 
----
-
-## 📽️ Video Demo
-
-[▶️ Watch demo video](https://github.com/VashuJain2024/PoseFit_Yoga/releases/download/Yoga/PoseFit.mp4)
